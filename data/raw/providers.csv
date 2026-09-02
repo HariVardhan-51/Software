@@ -1,0 +1,101 @@
+provider_id,first_name,last_name,specialization,department,license_number,phone,email,hospital_name,city,state,years_of_experience,provider_status
+PR00001,Reyansh,Natt,Orthopedics,Orthopedics,LIC00001,9001680941,elijah50@example.com,Green Valley Hospital,Belgaum,West Bengal,29,Active
+PR00002,Rohan,Savant,Cardiology,Cardiology,LIC00002,9620534407,msavant@example.com,Apollo Medical Center,Ujjain,Arunachal Pradesh,17,Inactive
+PR00003,Saumya,Dey,ENT,ENT,LIC00003,9662925081,ysom@example.org,Apollo Medical Center,Buxar,Tamil Nadu,3,Inactive
+PR00004,Ekalinga,Lall,General Medicine,General Medicine,LIC00004,9068841333,fkata@example.org,Apollo Medical Center,Secunderabad,Tamil Nadu,11,Active
+PR00005,Onveer,Jain,Cardiology,Cardiology,LIC00005,9561781703,harshbrar@example.net,Green Valley Hospital,Mumbai,Madhya Pradesh,8,Inactive
+PR00006,Isaiah,Kanda,Gynecology,Gynecology,LIC00006,9638527789,krisha13@example.org,Apollo Medical Center,Aurangabad,Sikkim,3,Inactive
+PR00007,Chaman,Mohanty,ENT,ENT,LIC00007,9490295026,yashvi01@example.com,Green Valley Hospital,Anantapuram,Arunachal Pradesh,15,Active
+PR00008,Warjas,Seth,ENT,ENT,LIC00008,9341678127,kvarghese@example.org,Metro Health Hospital,Kanpur,Uttarakhand,11,Active
+PR00009,Neel,Chanda,ENT,ENT,LIC00009,9798213486,hariniswamy@example.net,City Care Hospital,Muzaffarpur,Tripura,4,Inactive
+PR00010,Pooja,Kata,Gynecology,Gynecology,LIC00010,9831828560,veer97@example.net,City Care Hospital,Kumbakonam,Uttar Pradesh,18,Active
+PR00011,Priya,Rau,Neurology,Neurology,LIC00011,9177067368,alexanderpatla@example.org,Green Valley Hospital,Panvel,Chhattisgarh,20,Active
+PR00012,Frado,Garg,Ophthalmology,Ophthalmology,LIC00012,9235521650,sara14@example.com,Green Valley Hospital,Srinagar,Mizoram,7,Inactive
+PR00013,Owen,Bora,General Medicine,General Medicine,LIC00013,9925967908,wahab69@example.net,Sunrise Hospital,Bongaigaon,West Bengal,27,Active
+PR00014,Amol,Dutt,Dermatology,Dermatology,LIC00014,9205093869,yashica42@example.com,Metro Health Hospital,Phagwara,Mizoram,11,Inactive
+PR00015,Dominic,Chad,General Medicine,General Medicine,LIC00015,9457887071,praneel38@example.com,Metro Health Hospital,Pali,Meghalaya,4,Active
+PR00016,Rohan,Zacharia,Dermatology,Dermatology,LIC00016,9209746191,ntalwar@example.net,City Care Hospital,Yamunanagar,Nagaland,11,Active
+PR00017,Mason,Sarin,Pediatrics,Pediatrics,LIC00017,9872258937,walieesha@example.net,Green Valley Hospital,Silchar,Rajasthan,17,Active
+PR00018,Quincy,Khanna,Neurology,Neurology,LIC00018,9504056695,bbarad@example.net,City Care Hospital,Rourkela,Himachal Pradesh,29,Active
+PR00019,Patrick,Oommen,ENT,ENT,LIC00019,9544286796,loganpandit@example.net,Apollo Medical Center,Gaya,Rajasthan,27,Inactive
+PR00020,Yatin,Deol,Neurology,Neurology,LIC00020,9894633891,nidhi24@example.org,Sunrise Hospital,Gaya,Nagaland,20,Active
+PR00021,Geetika,Subramanian,Dermatology,Dermatology,LIC00021,9256292693,hemalwagle@example.net,City Care Hospital,Kota,Haryana,30,Inactive
+PR00022,Yamini,Cherian,Dermatology,Dermatology,LIC00022,9865507846,amol95@example.com,Metro Health Hospital,Bhilwara,Haryana,27,Active
+PR00023,Abhimanyu,Hari,General Medicine,General Medicine,LIC00023,9491891179,dgala@example.org,City Care Hospital,Amaravati,Haryana,25,Inactive
+PR00024,Amruta,Barad,Cardiology,Cardiology,LIC00024,9153641547,narainfalak@example.org,Green Valley Hospital,Thrissur,Telangana,4,Inactive
+PR00025,Oscar,Pau,ENT,ENT,LIC00025,9936781367,chakradev09@example.com,Green Valley Hospital,Moradabad,Jharkhand,17,Active
+PR00026,Gagan,Banik,ENT,ENT,LIC00026,9527698198,mbhasin@example.net,City Care Hospital,Morena,Andhra Pradesh,17,Active
+PR00027,Anita,Patel,Ophthalmology,Ophthalmology,LIC00027,9238885622,priya60@example.com,Metro Health Hospital,Hospet,Nagaland,27,Inactive
+PR00028,Riya,Mammen,Ophthalmology,Ophthalmology,LIC00028,9422758548,pahal55@example.net,Apollo Medical Center,Mangalore,Mizoram,23,Active
+PR00029,Kabir,Modi,Orthopedics,Orthopedics,LIC00029,9911650200,dugaldamyanti@example.com,City Care Hospital,Dharmavaram,Rajasthan,13,Active
+PR00030,Vincent,Bora,Ophthalmology,Ophthalmology,LIC00030,9321551305,vasana08@example.org,Metro Health Hospital,Miryalaguda,Telangana,14,Active
+PR00031,Qabil,Chaudhry,Pediatrics,Pediatrics,LIC00031,9444889669,fdhawan@example.net,Metro Health Hospital,Bhusawal,Manipur,11,Active
+PR00032,Ridhi,Master,ENT,ENT,LIC00032,9620258254,ekarajvora@example.org,Apollo Medical Center,Tinsukia,Uttar Pradesh,5,Inactive
+PR00033,Hitesh,Deol,Gastroenterology,Gastroenterology,LIC00033,9312392049,bhargavakrishna@example.net,Green Valley Hospital,Mysore,Mizoram,10,Active
+PR00034,Yash,Sagar,Ophthalmology,Ophthalmology,LIC00034,9472387508,urishillaraval@example.net,Apollo Medical Center,Sirsa,Goa,7,Active
+PR00035,Pratyush,Palla,Gastroenterology,Gastroenterology,LIC00035,9775458472,kdubey@example.org,Sunrise Hospital,Ajmer,Punjab,22,Active
+PR00036,Gautam,Vaidya,Orthopedics,Orthopedics,LIC00036,9768316082,pdara@example.com,Apollo Medical Center,Rajkot,Manipur,17,Active
+PR00037,Tanveer,Issac,Neurology,Neurology,LIC00037,9739920522,tanishsabharwal@example.org,Sunrise Hospital,Purnia,Uttar Pradesh,18,Inactive
+PR00038,Eta,Borra,Gastroenterology,Gastroenterology,LIC00038,9438823255,samarnagarajan@example.net,Green Valley Hospital,Shimoga,Maharashtra,22,Inactive
+PR00039,Jason,Suresh,Ophthalmology,Ophthalmology,LIC00039,9773264309,advika49@example.com,Sunrise Hospital,Bokaro,Manipur,29,Inactive
+PR00040,Reva,Agate,Cardiology,Cardiology,LIC00040,9292712053,fvyas@example.net,Green Valley Hospital,Kakinada,Meghalaya,4,Active
+PR00041,Eta,Devi,Gynecology,Gynecology,LIC00041,9988322012,mekhala08@example.org,Apollo Medical Center,Agra,Arunachal Pradesh,2,Active
+PR00042,Alka,Suresh,Dermatology,Dermatology,LIC00042,9978889753,yoshita52@example.org,Sunrise Hospital,Ghaziabad,Uttar Pradesh,25,Active
+PR00043,Banjeet,Jaggi,Pediatrics,Pediatrics,LIC00043,9044361995,sharmaekalinga@example.com,Sunrise Hospital,Bhagalpur,West Bengal,5,Active
+PR00044,Girik,Bajaj,Pediatrics,Pediatrics,LIC00044,9292950143,pmalhotra@example.net,Apollo Medical Center,Howrah,Punjab,25,Active
+PR00045,Ronith,Ahluwalia,General Medicine,General Medicine,LIC00045,9967139719,dhillonmitali@example.org,Metro Health Hospital,Saharanpur,Bihar,4,Active
+PR00046,Sarthak,Dugar,Ophthalmology,Ophthalmology,LIC00046,9176720191,chowdhurylavanya@example.com,Metro Health Hospital,Bikaner,Goa,8,Active
+PR00047,Benjamin,Dara,Cardiology,Cardiology,LIC00047,9907258733,balhaarmemon@example.net,Metro Health Hospital,Chinsurah,Madhya Pradesh,13,Inactive
+PR00048,Geetika,Joshi,General Medicine,General Medicine,LIC00048,9802748124,harishchana@example.com,Green Valley Hospital,Proddatur,Sikkim,2,Active
+PR00049,Megha,Vohra,Pediatrics,Pediatrics,LIC00049,9250952294,bdave@example.net,Apollo Medical Center,Ambarnath,Kerala,20,Inactive
+PR00050,Lajita,Bhatti,Dermatology,Dermatology,LIC00050,9039952970,karniksudiksha@example.org,Sunrise Hospital,Bally,Gujarat,25,Active
+PR00051,Panini,Parmer,Dermatology,Dermatology,LIC00051,9858564230,falan20@example.org,Sunrise Hospital,Meerut,Maharashtra,15,Active
+PR00052,Jatin,Pathak,Neurology,Neurology,LIC00052,9927387402,savantfrederick@example.com,Apollo Medical Center,Gudivada,Andhra Pradesh,6,Active
+PR00053,Nitara,Kari,Gynecology,Gynecology,LIC00053,9224815542,kapadiabhavika@example.org,City Care Hospital,Allahabad,Bihar,14,Active
+PR00054,Anay,Patil,Ophthalmology,Ophthalmology,LIC00054,9679756491,saanvi95@example.com,Sunrise Hospital,Khandwa,Uttarakhand,5,Active
+PR00055,Orinder,Koshy,Gastroenterology,Gastroenterology,LIC00055,9471247601,bhargavajagat@example.net,Sunrise Hospital,Agra,Gujarat,1,Active
+PR00056,Avi,Sachar,ENT,ENT,LIC00056,9831764172,cvarty@example.net,Apollo Medical Center,Hazaribagh,Bihar,2,Active
+PR00057,Jeevika,Sem,General Medicine,General Medicine,LIC00057,9129015071,yashodabasak@example.com,Green Valley Hospital,Kota,Haryana,2,Active
+PR00058,Chatura,Shere,ENT,ENT,LIC00058,9351045847,ryan62@example.org,Green Valley Hospital,Nagpur,Andhra Pradesh,18,Active
+PR00059,Radhika,Gopal,Neurology,Neurology,LIC00059,9588576694,nbalan@example.org,Sunrise Hospital,Thoothukudi,Gujarat,17,Active
+PR00060,Sai,Rau,Orthopedics,Orthopedics,LIC00060,9274666215,vohrawridesh@example.org,Green Valley Hospital,Surat,Arunachal Pradesh,3,Active
+PR00061,Dakshesh,Lata,Gynecology,Gynecology,LIC00061,9666145901,bedisanya@example.net,Green Valley Hospital,Bhind,Bihar,18,Inactive
+PR00062,Zayyan,Barad,Neurology,Neurology,LIC00062,9049388194,murtyzaid@example.net,Sunrise Hospital,Ratlam,Uttar Pradesh,8,Active
+PR00063,Orinder,Basak,General Medicine,General Medicine,LIC00063,9499809497,fwadhwa@example.net,Sunrise Hospital,Amritsar,Gujarat,12,Active
+PR00064,Ubika,Sarna,Dermatology,Dermatology,LIC00064,9166984166,dixittarak@example.com,Green Valley Hospital,Dhanbad,Meghalaya,17,Inactive
+PR00065,Varsha,Lata,Ophthalmology,Ophthalmology,LIC00065,9332562389,ishaan97@example.org,City Care Hospital,Bilaspur,Goa,4,Active
+PR00066,Raagini,Dewan,ENT,ENT,LIC00066,9037087821,roychristopher@example.org,Apollo Medical Center,Rampur,Bihar,29,Active
+PR00067,Fiyaz,Keer,Cardiology,Cardiology,LIC00067,9599898972,chackosai@example.org,Sunrise Hospital,Danapur,Andhra Pradesh,13,Active
+PR00068,Ekavir,Rastogi,Gynecology,Gynecology,LIC00068,9448221758,riatripathi@example.com,Sunrise Hospital,Hyderabad,Nagaland,18,Active
+PR00069,Orinder,Bhatia,Cardiology,Cardiology,LIC00069,9048067571,ranbirrai@example.net,Green Valley Hospital,Dewas,Punjab,27,Active
+PR00070,Neha,Chand,Ophthalmology,Ophthalmology,LIC00070,9128794296,ubikaramanathan@example.net,Green Valley Hospital,Dhanbad,Himachal Pradesh,15,Inactive
+PR00071,Caleb,Pant,Cardiology,Cardiology,LIC00071,9314196156,talwaryuvraj@example.org,Sunrise Hospital,Anantapuram,Sikkim,29,Active
+PR00072,Udarsh,Nath,General Medicine,General Medicine,LIC00072,9651796240,nmandal@example.com,Green Valley Hospital,Bongaigaon,Haryana,3,Active
+PR00073,Alka,Sanghvi,Orthopedics,Orthopedics,LIC00073,9047842170,hamsinichaudry@example.com,Green Valley Hospital,Kozhikode,Kerala,18,Active
+PR00074,Xavier,Ray,Neurology,Neurology,LIC00074,9488208934,swalia@example.net,Apollo Medical Center,Srikakulam,Arunachal Pradesh,22,Active
+PR00075,Rajata,Devan,Gynecology,Gynecology,LIC00075,9467287991,nbains@example.org,City Care Hospital,Dewas,Assam,7,Inactive
+PR00076,Tanish,Chowdhury,Neurology,Neurology,LIC00076,9935923613,vaishnavireddy@example.org,Apollo Medical Center,Gaya,Haryana,1,Inactive
+PR00077,Caleb,Kumar,General Medicine,General Medicine,LIC00077,9588165025,chasmum72@example.com,City Care Hospital,Tadepalligudem,Bihar,3,Active
+PR00078,Pushti,Nadkarni,Cardiology,Cardiology,LIC00078,9034409661,vsule@example.org,Apollo Medical Center,Rampur,Punjab,26,Active
+PR00079,Benjamin,Agate,Ophthalmology,Ophthalmology,LIC00079,9678214174,gvarughese@example.org,City Care Hospital,Udaipur,Madhya Pradesh,19,Active
+PR00080,Krisha,Lanka,Pediatrics,Pediatrics,LIC00080,9869893969,gmuni@example.com,Metro Health Hospital,Mysore,Karnataka,13,Inactive
+PR00081,Harini,Lal,Gynecology,Gynecology,LIC00081,9501192920,ppatel@example.net,Metro Health Hospital,Varanasi,Kerala,11,Active
+PR00082,Ishaan,Bobal,Gynecology,Gynecology,LIC00082,9716039886,oviyamurthy@example.org,City Care Hospital,Cuttack,Bihar,18,Active
+PR00083,Yutika,Lad,Gastroenterology,Gastroenterology,LIC00083,9559067000,laban48@example.net,City Care Hospital,Mangalore,Arunachal Pradesh,25,Active
+PR00084,Chaaya,Puri,Neurology,Neurology,LIC00084,9648966760,rajata42@example.org,Sunrise Hospital,Satna,Maharashtra,30,Active
+PR00085,Januja,Suri,Pediatrics,Pediatrics,LIC00085,9758097453,yashawinibalakrishnan@example.com,Sunrise Hospital,Latur,West Bengal,20,Active
+PR00086,Kala,Kuruvilla,Pediatrics,Pediatrics,LIC00086,9662265401,mnatt@example.net,Metro Health Hospital,Berhampur,Arunachal Pradesh,13,Inactive
+PR00087,Aditya,Sandal,Cardiology,Cardiology,LIC00087,9221224276,tsom@example.com,Metro Health Hospital,Satna,Punjab,6,Active
+PR00088,Ekalinga,Ramakrishnan,Orthopedics,Orthopedics,LIC00088,9011241158,zansi60@example.org,Metro Health Hospital,Moradabad,Meghalaya,26,Active
+PR00089,Zaitra,Randhawa,Orthopedics,Orthopedics,LIC00089,9778231299,sachi04@example.com,Sunrise Hospital,Alappuzha,Uttar Pradesh,22,Active
+PR00090,Adya,Gala,Cardiology,Cardiology,LIC00090,9612120384,varenyaoommen@example.org,Green Valley Hospital,Sri Ganganagar,Tamil Nadu,28,Active
+PR00091,Libni,Walia,Neurology,Neurology,LIC00091,9078525482,joshua18@example.net,City Care Hospital,Ambala,Karnataka,1,Inactive
+PR00092,Zehaan,Pathak,Ophthalmology,Ophthalmology,LIC00092,9400644547,madhav31@example.org,Green Valley Hospital,Jammu,Chhattisgarh,3,Active
+PR00093,Sara,Mangal,Dermatology,Dermatology,LIC00093,9897917763,chaayaganesan@example.com,Sunrise Hospital,Ludhiana,Gujarat,7,Inactive
+PR00094,Ladli,Gara,Ophthalmology,Ophthalmology,LIC00094,9175080196,benjaminkumer@example.com,Apollo Medical Center,Patna,Madhya Pradesh,6,Active
+PR00095,Victor,Nair,Dermatology,Dermatology,LIC00095,9882493534,banikhemang@example.net,Green Valley Hospital,Tenali,Manipur,27,Active
+PR00096,Urvi,Tiwari,Dermatology,Dermatology,LIC00096,9481652444,advika46@example.org,City Care Hospital,Deoghar,Kerala,6,Active
+PR00097,Dominic,Soman,Ophthalmology,Ophthalmology,LIC00097,9993781053,dintanmayi@example.net,Metro Health Hospital,Siwan,Telangana,21,Active
+PR00098,Libni,Sandal,Pediatrics,Pediatrics,LIC00098,9988290457,varenyacheema@example.com,City Care Hospital,Durgapur,Himachal Pradesh,9,Active
+PR00099,Krisha,Kaul,Dermatology,Dermatology,LIC00099,9019864242,upkaarsengupta@example.org,Green Valley Hospital,Patiala,Odisha,16,Active
+PR00100,Harshil,Dora,General Medicine,General Medicine,LIC00100,9187062932,kalaoliver@example.org,Apollo Medical Center,Varanasi,Uttarakhand,22,Active
